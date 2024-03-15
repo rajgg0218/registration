@@ -1,0 +1,133 @@
+h1 {
+  padding: 5px 0px 1px 0px;
+  text-align: center;
+  font-size: 50px;
+  color: #a92d2d ;
+}
+
+p {
+  margin: 1em auto;
+  text-align: center;
+}
+
+body {
+  align-content: center;
+  height: 100vh;
+  margin: 100;
+}
+
+form {
+  padding-top: 10px;
+  padding-bottom: 50px;
+  width: 60vw;
+  margin: auto;
+}
+
+label {
+  display: inline-block;
+  margin: 0.5rem 10px;
+}
+
+label [type="text"] {
+  background-color: whitesmoke;
+  width: 225px;
+  height: 23px;
+  border-radius: 6px;
+  border: 0.5px solid
+}
+label [type="email"] {
+  background-color: whitesmoke;
+  width: 250px;
+  height: 23px;
+  border-radius: 6px;
+  border: 0.5px solid
+}
+
+label [type="home-address"] {
+  background-color: whitesmoke;
+  width: 890px;
+  height: 23px;
+  border-radius: 6px;
+  border: 0.5px solid
+}
+
+label [type="contact-number"] {
+  background-color: whitesmoke;
+  width: 250px;
+  height: 23px;
+  border-radius: 6px;
+  border: 0.5px solid
+}
+
+label [type="date"] {
+  background-color: whitesmoke;
+  width: 150px;
+  height: 24px;
+  border-radius: 6px;
+  border: 0.5px solid
+}
+
+label [type="user"] {
+  background-color: whitesmoke;
+  width: 250px;
+  height: 23px;
+  border-radius: 6px;
+  border: 0.5px solid
+}
+
+
+label [type="password"] {
+  background-color: whitesmoke;
+  width: 255px;
+  height: 23px;
+  border-radius: 6px;
+  border: 0.5px solid
+}
+
+label [type="number"] {
+  background-color: whitesmoke;
+  width: 100px;
+  height: 23px;
+  border-radius: 6px;
+  border: 0.5px solid
+}
+
+fieldset {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 1rem 0;
+
+}
+
+input[type="submit"] {
+  display: block;
+  width: 20%;
+  margin: 3em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #ffd936;
+  color: #a92d2d;
+  border-color: white;
+  min-width: 300px;
+}
+
+a {
+  color: #a92d2d;
+}
+a:hover {
+  color: #ffd936;
+}
+
+input[type="submit"]:hover {
+  background-color: whitesmoke;
+}
+
+.inline{
+  display: inline; 
+}
+  
+
+
+
+
+
